@@ -9,3 +9,4 @@ vertexai
 pandas
 matplotlib
 scikit-learn 
+poppler 
