@@ -10,3 +10,5 @@ pandas
 matplotlib
 scikit-learn
 jinja2
+poppler-utils
+tesseract-ocr
